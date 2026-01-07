@@ -9,8 +9,8 @@ from image_utils import load_image, edge_detection
 
 def main():
     # 1. Load the Image
-    # יש להחליף את הנתיב לנתיב של תמונה אמיתית במחשב שלך
-    image_path = 'my_image.jpg' 
+      
+    image_path = 'frog.jpg' 
     original_image = load_image(image_path)
     
     # בדיקה שהתמונה נטענה
